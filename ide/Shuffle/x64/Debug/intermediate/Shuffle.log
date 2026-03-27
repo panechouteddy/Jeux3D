@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\teddy\Downloads\Projet1\Projet1\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/Shuffle/main.cpp')
+  
+C:\Users\teddy\Downloads\Projet1\Projet1\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/Shuffle/main.cpp')
+  
+C:\Users\teddy\Downloads\Projet1\Projet1\src\Shuffle\main.cpp(129,39): warning C4244: 'argument' : conversion de 'float' en 'uint32', perte possible de données
+  (compiler le fichier source '../../src/Shuffle/main.cpp')
+  
+C:\Users\teddy\Downloads\Projet1\Projet1\src\Shuffle\main.cpp(129,32): warning C4244: 'argument' : conversion de 'float' en 'uint32', perte possible de données
+  (compiler le fichier source '../../src/Shuffle/main.cpp')
+  
+C:\Users\teddy\Downloads\Projet1\Projet1\src\Shuffle\main.cpp(348,16): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source '../../src/Shuffle/main.cpp')
+  
+lib.lib(StaticBuffer.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(StaticBuffer.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Vector3.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Vector3.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(DynamicBuffer.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(DynamicBuffer.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Texture.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Texture.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Structs.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Structs.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(GeometryFactory.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(GeometryFactory.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Font.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Font.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Color.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Color.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(D12DebugLayer.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(D12DebugLayer.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(RenderContext.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(RenderContext.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(pch.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(pch.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(ImageLoader.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(ImageLoader.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(MipmapGenerator.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(MipmapGenerator.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Quaternion.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Quaternion.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Matrix.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Matrix.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(RenderCamera.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(RenderCamera.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(FrameResources.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(FrameResources.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Geometry.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Geometry.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Obj.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Obj.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Vector4.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Vector4.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(RenderTarget.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(RenderTarget.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Window.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Window.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(RenderWindow.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(RenderWindow.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Shader.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(Shader.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(DDSTextureLoader.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(DescriptorAllocator.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(DescriptorAllocator.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(DebugRenderer.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(DebugRenderer.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(D12ComputePipelineObject.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(D12ComputePipelineObject.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(D12PipelineObject.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(D12PipelineObject.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(File.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(File.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(MtlParser.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(MtlParser.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(Triangulation.obj) : warning LNK4099: PDB 'Core.pdb' n'a pu être trouvé avec 'lib.lib(Triangulation.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Core.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(ParticlesSystem.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(ParticlesSystem.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(CubeMap.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(CubeMap.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(shadowMap.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(shadowMap.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+lib.lib(LightManager.obj) : warning LNK4099: PDB 'Render.pdb' n'a pu être trouvé avec 'lib.lib(LightManager.obj)' ou sur 'C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Render.pdb' ; l'objet sera lié sans informations de débogage
+  Shuffle.vcxproj -> C:\Users\teddy\Downloads\Projet1\Projet1\ide\Shuffle\x64\Debug\Shuffle.exe

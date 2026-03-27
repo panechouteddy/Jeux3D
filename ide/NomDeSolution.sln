@@ -1,0 +1,69 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Catcher", "Catcher\Catcher.vcxproj", "{35B60483-428E-6B47-6205-1EBE6AA511EA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B} = {3F901AEF-1F0A-0387-2955-0D0735CF064B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shuffle", "Shuffle\Shuffle.vcxproj", "{35F4223F-7069-653A-5F8E-422E51A538A8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B} = {3F901AEF-1F0A-0387-2955-0D0735CF064B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tron", "Tron\Tron.vcxproj", "{360B4826-58E2-7735-7998-2D8D26C0689D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B} = {3F901AEF-1F0A-0387-2955-0D0735CF064B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lib", "lib\lib.vcxproj", "{3F901AEF-1F0A-0387-2955-0D0735CF064B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Debug|x64.ActiveCfg = Debug|x64
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Debug|x64.Build.0 = Debug|x64
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Debug|x86.Build.0 = Debug|Win32
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Release|x64.ActiveCfg = Release|x64
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Release|x64.Build.0 = Release|x64
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Release|x86.ActiveCfg = Release|Win32
+		{35B60483-428E-6B47-6205-1EBE6AA511EA}.Release|x86.Build.0 = Release|Win32
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Debug|x64.ActiveCfg = Debug|x64
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Debug|x64.Build.0 = Debug|x64
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Debug|x86.Build.0 = Debug|Win32
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Release|x64.ActiveCfg = Release|x64
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Release|x64.Build.0 = Release|x64
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Release|x86.ActiveCfg = Release|Win32
+		{35F4223F-7069-653A-5F8E-422E51A538A8}.Release|x86.Build.0 = Release|Win32
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Debug|x64.ActiveCfg = Debug|x64
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Debug|x64.Build.0 = Debug|x64
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Debug|x86.ActiveCfg = Debug|Win32
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Debug|x86.Build.0 = Debug|Win32
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Release|x64.ActiveCfg = Release|x64
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Release|x64.Build.0 = Release|x64
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Release|x86.ActiveCfg = Release|Win32
+		{360B4826-58E2-7735-7998-2D8D26C0689D}.Release|x86.Build.0 = Release|Win32
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Debug|x64.ActiveCfg = Debug|x64
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Debug|x64.Build.0 = Debug|x64
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Debug|x86.Build.0 = Debug|Win32
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Release|x64.ActiveCfg = Release|x64
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Release|x64.Build.0 = Release|x64
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Release|x86.ActiveCfg = Release|Win32
+		{3F901AEF-1F0A-0387-2955-0D0735CF064B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {323A3E58-5817-2E02-6A7E-434173824394}
+	EndGlobalSection
+EndGlobal

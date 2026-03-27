@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '/GameManager.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '/GameManager.cpp')
+  
+  Tron.vcxproj -> C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\ide\Tron\x64\Debug\Tron.exe

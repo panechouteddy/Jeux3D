@@ -1,0 +1,123 @@
+﻿  pch.cpp
+  Camera.cpp
+  Geometry.cpp
+  InputsMethods.cpp
+  InputSystem.cpp
+  Renderer.cpp
+  ShadowMap.cpp
+  Window.cpp
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Camera.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Camera.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Window.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Window.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Matrix.h(64,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Vector4.h(56,22): warning C4166: convention d'appel non conforme pour un constructeur/destructeur
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(58,35): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(61,38): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,52): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,75): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,48): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,68): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\ParticlesSystem.h(70,34): warning C4244: '=' : conversion de 'int64' en 'uint32', perte possible de données
+  (compiler le fichier source '../../src/lib/Geometries/Geometry.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(58,35): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(61,38): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,52): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,75): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,48): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,68): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\ParticlesSystem.h(70,34): warning C4244: '=' : conversion de 'int64' en 'uint32', perte possible de données
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\FrameResources.h(13,12): warning C4099: 'gce::FrameResource' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+  (compiler le fichier source '../../src/lib/Renderer.cpp')
+      C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\FrameResources.h(13,12):
+      voir la déclaration de 'gce::FrameResource'
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(58,35): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(61,38): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,52): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(65,75): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,48): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Core\Maths\Physics.h(67,68): warning C4227: anachronisme utilisé : qualificateurs de référence ignorés
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\ParticlesSystem.h(70,34): warning C4244: '=' : conversion de 'int64' en 'uint32', perte possible de données
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\src\lib\Window.cpp(91,184): warning C4244: 'argument' : conversion de 'LONG' en 'float32', perte possible de données
+  (compiler le fichier source '../../src/lib/Window.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\src\lib\Window.cpp(91,166): warning C4244: 'argument' : conversion de 'LONG' en 'float32', perte possible de données
+  (compiler le fichier source '../../src/lib/Window.cpp')
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\Window.h(23,8): warning C4099: 'gce::FrameResource' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+      C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\FrameResources.h(13,12):
+      voir la déclaration de 'gce::FrameResource'
+  
+C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\Window.h(129,16): warning C4099: 'gce::FrameResource' : nom de type déjà rencontré avec 'struct' et utilisant maintenant 'class'
+  (compiler le fichier source '../../src/lib/ShadowMap.cpp')
+      C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\lib\GCRender\includes\Render\FrameResources.h(13,12):
+      voir la déclaration de 'gce::FrameResource'
+  
+  lib.vcxproj -> C:\Users\teddy\OneDrive\Documents\GitHub\Gtech_2\Géométrie3D\Repo_LastChance-\ide\lib\x64\Debug\lib.lib

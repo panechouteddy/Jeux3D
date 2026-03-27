@@ -1,0 +1,90 @@
+{
+    "projects": {
+        "Catcher": {
+            "additionalDependencies": [],
+            "additionalIncludeDirectories": [
+		"$(SolutionDir)../lib/GCRender/includes/",
+                "$(SolutionDir)../lib/GCRender/includes/Core/",
+                "$(SolutionDir)../lib/GCRender/includes/Render/"
+],
+            "additionalLibraryDirectories": [],
+            "dependencies": [
+                "lib"
+            ],
+            "dependents": [],
+            "guid": "35B60483-428E-6B47-6205-1EBE6AA511EA",
+            "lib": false,
+            "pch": true,
+            "preprocessorDefinitions": [],
+            "vcpkg": false,
+            "window": false
+        },
+        "Shuffle": {
+            "additionalDependencies": [],
+            "additionalIncludeDirectories": [
+		"$(SolutionDir)../lib/GCRender/includes/",
+                "$(SolutionDir)../lib/GCRender/includes/Core/",
+                "$(SolutionDir)../lib/GCRender/includes/Render/"
+],
+            "additionalLibraryDirectories": [],
+            "dependencies": [
+                "lib"
+            ],
+            "dependents": [],
+            "guid": "35F4223F-7069-653A-5F8E-422E51A538A8",
+            "lib": false,
+            "pch": true,
+            "preprocessorDefinitions": [],
+            "vcpkg": false,
+            "window": false
+        },
+        "Tron": {
+            "additionalDependencies": [],
+            "additionalIncludeDirectories": [
+		"$(SolutionDir)../lib/GCRender/includes/",
+                "$(SolutionDir)../lib/GCRender/includes/Core/",
+                "$(SolutionDir)../lib/GCRender/includes/Render/"
+],
+            "additionalLibraryDirectories": [],
+            "dependencies": [
+                "lib"
+            ],
+            "dependents": [],
+            "guid": "360B4826-58E2-7735-7998-2D8D26C0689D",
+            "lib": false,
+            "pch": true,
+            "preprocessorDefinitions": [],
+            "vcpkg": false,
+            "window": false
+        },
+        "lib": {
+            "additionalDependencies": [
+                "Render.lib"
+            ],
+            "additionalIncludeDirectories": [
+                "$(SolutionDir)../lib/GCRender/includes/",
+                "$(SolutionDir)../lib/GCRender/includes/Core/",
+                "$(SolutionDir)../lib/GCRender/includes/Render/"
+            ],
+            "additionalLibraryDirectories": [
+                "$(SolutionDir)../lib/GCRender/lib/"
+            ],
+            "dependencies": [],
+            "dependents": [
+                "Catcher",
+                "Shuffle",
+                "Tron"
+            ],
+            "guid": "3F901AEF-1F0A-0387-2955-0D0735CF064B",
+            "lib": true,
+            "pch": true,
+            "preprocessorDefinitions": [],
+            "vcpkg": false,
+            "window": false
+        }
+    },
+    "solution_guid": "323A3E58-5817-2E02-6A7E-434173824394",
+    "solution_name": "NomDeSolution",
+    "startup_project": "Catcher",
+    "version": "1.17.4"
+}
