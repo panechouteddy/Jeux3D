@@ -34,9 +34,6 @@
     <ClInclude Include="Scene.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MenuScene.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Catcher.h">
       <Filter>Header Files</Filter>
     </ClInclude>

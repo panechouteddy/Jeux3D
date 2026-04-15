@@ -88,7 +88,6 @@
     <ClInclude Include="$(SolutionDir)..\src\Tron\pch.h" />
     <ClInclude Include="Catcher.h" />
     <ClInclude Include="GameManager.h" />
-    <ClInclude Include="MenuScene.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="SceneManager.h" />
     <ClInclude Include="Shuffle.h" />

@@ -1,6 +1,5 @@
 #include "pch.h"
 #include "Tron.h"
-#include "MenuScene.h"
 
 void Tron::Init()
 {
@@ -463,7 +462,7 @@ void Tron::QuitScene()
     if (sr::GetKey(sr::Keyboard::ENTER))
     {
         
-        m_sceneManager->SetScene((std::make_shared<MenuScene>( m_sceneManager,window)));
+        //m_sceneManager->SetScene((std::make_shared<MenuScene>( m_sceneManager,window)));
     }
 }
 
